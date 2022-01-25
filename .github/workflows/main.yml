@@ -1,4 +1,4 @@
-name: dsotu
+name: main
 on: 
   schedule:
     - cron: '0 3/6 * * *'
